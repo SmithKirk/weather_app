@@ -2,7 +2,7 @@
 
 This app was created using Angular2 with Typescript and styled using SCSS
 
-###Installation
+### Installation
 
 Clone repo and install dependencies with npm
 
